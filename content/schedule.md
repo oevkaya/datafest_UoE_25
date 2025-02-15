@@ -7,13 +7,13 @@ All events take place on-site. We'll use MS Teams for communication.
 
 ### Event details
 
-**When:** Friday, March 22 at 6:00 pm - Sunday, March 24 at 7 pm
+**When:** Friday, March 21 at 6:00 pm - Sunday, March 23 at 7 pm
 
 **Where:** Hawthorn Teaching Room, Nucleus Building, The King's Buildings campus, The University of Edinburgh, EH9 3FG
 
 ---
 
-### Friday, 22 March 2024
+### Friday, 21 March 2025
 
 **Welcome!**
 
@@ -31,11 +31,11 @@ On the first day, the main goal is to access the dataset, try to understand it a
 
 ---
 
-### Saturday, 23 March 2024
+### Saturday, 22 March 2025
 
 **Carry on!**
 
-💻 9-10:30pm - Work on data
+💻 9-10:30am - Work on data
    
 ☕️ 10:30-11am - Refreshments/Social time 
 
@@ -47,19 +47,15 @@ On the first day, the main goal is to access the dataset, try to understand it a
    
 ☕️ 4-4:30pm - Refreshments/Social time 
 
-💻 4:30-6:30pm - Work on data
+💻 4:30-7pm - Work on data
    
-🍔 6:30-7:30pm - Dinner/Social time
-
-💻 7:30-9pm - Work on data
-
 On the second day, we suggest you choose the main questions and methods you want to use and start with analysing the data. 
 
 ---
 
-### Sunday, 24 March 2024
+### Sunday, 23 March 2025
 
-💻 9-10:30pm - Work on data
+💻 9-10:30am - Work on data
    
 ☕️ 10:30-11am - Refreshments/Social time 
 
@@ -69,13 +65,13 @@ On the second day, we suggest you choose the main questions and methods you want
 
 **Wrap up!**
 
-💻 2-3:30pm - Work on data
+💻 2-4pm - Work on data
 
-☕️ 3:30-4pm - Refreshments/Social time
+🛑 4pm - Submission deadline
 
-🛑 4pm - Submission deadline 
+☕️ 4-4:30pm - Refreshments/Social time 
 
-📈 4-6pm - Presentations   
+📈 4:30-6pm - Presentations   
    
 🏆 6-6:30pm - Judges discussions
 
@@ -83,5 +79,5 @@ On the second day, we suggest you choose the main questions and methods you want
 
 🏆 6:30-7pm - Announcing winners and prize giving
 
-We suggest that you spend the morning on analysing the data and interpreting the  results  and the afternoon on preparing your presentation.         
+We suggest that you spend the morning on analysing the data and interpreting the results and the afternoon on preparing your presentation.         
 

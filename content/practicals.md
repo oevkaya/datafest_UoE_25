@@ -25,7 +25,7 @@ If you need first aid during the event, please talk to one of the organisers.
 
 #### <i class="fas fa-question-circle fa-fw"></i> Further practical infos</h4>
 
-Meals and refreshments will be provided for free, but if you need anything else to purchase, Cameron Toll Shopping Centre is within a 10-minute walking distance from the venue [Address: 6 Lady Rd, Edinburgh EH16 5PB](https://www.google.com/maps/place/Cameron+Toll+Shopping+Centre/@55.9268621,-3.1638126,15z/data=!4m2!3m1!1s0x0:0x5d5710918b595caa?sa=X&ved=1t:2428&ictx=111). 
+Meals and refreshments will be provided for free, but if you need anything else to purchase, Cameron Toll Shopping Centre is within a 10-minute walking distance from the venue. See the location from the [Google map](https://www.google.com/maps/place/Cameron+Toll+Shopping+Centre/@55.9268621,-3.1638126,15z/data=!4m2!3m1!1s0x0:0x5d5710918b595caa?sa=X&ved=1t:2428&ictx=111)
 
 ---
 

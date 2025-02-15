@@ -21,7 +21,7 @@ markup: "mmark"
 
 - GitLab: https://about.gitlab.com
 
-- *Happy Git with R*: https://happygitwithr.com/ 
+- Happy Git with R: https://happygitwithr.com/ 
 
 For the installation of related tools, you can follow the instructions available for [R and RStudio](https://uoe-ids.netlify.app/troubleshoot/setup/rstudio/) for [Github](https://uoe-ids.netlify.app/troubleshoot/setup/github/).  
 

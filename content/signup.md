@@ -3,7 +3,7 @@ title: "Sign up"
 markup: "mmark"
 ---
 
-Seats are limited, sign up before it's too late! Deadline is **11 March 2024, 5pm UK time**.
+Deadline is **---- March 2025, 5pm UK time**. Please note that capacity is limited, so registration may stop before the deadline when all seats are taken!
 
 <br><br>
 
@@ -23,7 +23,7 @@ Click [here](https://forms.office.com/pages/responsepage.aspx?id=sAafLmkWiUWHiRC
 
 <a href="https://forms.office.com/pages/responsepage.aspx?id=sAafLmkWiUWHiRCgaTTcYcc4uH2cC1JGhEETbUpyEVVUNzVaQkRaR0dZSkVaOE5LQ0NVMFJaMUhJQi4u"><i class="fas fa-user-plus fa-2x" style="color:#E91E63"></i></a> 
 
-If you do not have a team in mind but you're looking for teammates, click [here](https://forms.office.com/pages/responsepage.aspx?id=sAafLmkWiUWHiRCgaTTcYcc4uH2cC1JGhEETbUpyEVVUNzVaQkRaR0dZSkVaOE5LQ0NVMFJaMUhJQi4u) to leave us your information so that you can be matched with others.
+If you do not have a team in mind but you're looking for teammates, click [here](https://forms.office.com/pages/responsepage.aspx?id=sAafLmkWiUWHiRCgaTTcYcc4uH2cC1JGhEETbUpyEVVUNzVaQkRaR0dZSkVaOE5LQ0NVMFJaMUhJQi4u) to leave us your information and we will match you with other individuals.
 
 <br><br>
 
@@ -33,7 +33,7 @@ If you do not have a team in mind but you're looking for teammates, click [here]
 
 <a href="https://forms.office.com/pages/responsepage.aspx?id=sAafLmkWiUWHiRCgaTTcYcc4uH2cC1JGhEETbUpyEVVUQlNaWUEwQkZKRjZDWUhLUVRISlpORFVFRS4u"><i class="fas fa-user-plus fa-2x" style="color:#4285F4"></i></a> 
 
-If you are interested in serving as a consultant during the event, please let us know your availability [here](https://forms.office.com/pages/responsepage.aspx?id=sAafLmkWiUWHiRCgaTTcYcc4uH2cC1JGhEETbUpyEVVUQlNaWUEwQkZKRjZDWUhLUVRISlpORFVFRS4u).
+If you are a post-graduate student, postdoc, or staff and interested in helping as a consultant during the event, please let us know your availability [here](https://forms.office.com/pages/responsepage.aspx?id=sAafLmkWiUWHiRCgaTTcYcc4uH2cC1JGhEETbUpyEVVUQlNaWUEwQkZKRjZDWUhLUVRISlpORFVFRS4u).
 
 <br><br>
 

@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>DataFest 2024 @ EDI on DataFest-2024</title>
+    <title>DataFest 2025 @ EDI on DataFest-2025</title>
     <link>/</link>
-    <description>Recent content in DataFest 2024 @ EDI on DataFest-2024</description>
+    <description>Recent content in DataFest 2025 @ EDI on DataFest-2025</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
@@ -12,7 +12,7 @@
       <link>/coc/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>/coc/</guid>
-      <description>ASA DataFestTM at University of Edinburgh is committed to providing a welcoming and harassment-free experience for everyone, regardless of gender, gender identity and expression, age, sexual orientation, disability, physical appearance, body size, race, ethnicity, religion (or lack thereof), or technology choices. We do not tolerate harassment of event participants in any form. Sexual language and imagery is not appropriate for any event venue, including talks, workshops, social activities, social media, and other online media.</description>
+      <description>ASA DataFestTM at the University of Edinburgh is committed to providing a welcoming and harassment-free experience for everyone, regardless of gender, gender identity and expression, age, sexual orientation, disability, physical appearance, body size, race, ethnicity, religion (or lack thereof), or technology choices. We do not tolerate harassment of event participants in any form. Sexual language and imagery is not appropriate for any event venue, including talks, workshops, social activities, social media, and other online media.</description>
     </item>
     <item>
       <title>DataFest 2020</title>
@@ -22,25 +22,25 @@
       <description>Eight teams participated in the DataFest @ EDI 2020 - COVID-19 Virtual Data Challenge over two weeks between 30 May and 13 June, 2020.&#xA;For this competition, we challenged participants to explore the societal impacts of the COVID-19 pandemic other than its direct health outcomes. Participants were allowed to explore everything from the effects on pollution levels, transportation levels, or working from home. They could investigate changes in the number of people posting on TikTok with their families or do an analysis on online education.</description>
     </item>
     <item>
-      <title>DataFest 2024 Sponsors</title>
+      <title>DataFest 2025 Sponsors</title>
       <link>/sponsors/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>/sponsors/</guid>
-      <description>ASA DataFest at University of Edinburgh cannot run without your support!&#xA;We need lots of consultant hours so we hope that you&amp;rsquo;ll consider supporting us with your time this year! Click here as a consultant.&#xA;To find out more about how you can support DataFest at University of Edinburgh, and don&amp;rsquo;t hesitate to contact us with sponsorship questions.&#xA;Huge thanks to our sponsors, and we&amp;rsquo;re hoping to add more to this list!</description>
+      <description>ASA DataFest at the University of Edinburgh cannot run without your support!&#xA;We need lots of consultant hours so we hope that you&amp;rsquo;ll consider supporting us with your time this year! Click here to sign up as a consultant.&#xA;To find out more about how you can support DataFest at the University of Edinburgh, don&amp;rsquo;t hesitate to contact us with sponsorship questions.&#xA;Huge thanks to our sponsors!&#xA;The School of Mathematics at The University of Edinburgh is situated in the James Clerk Maxwell Building within the King&amp;rsquo;s Buildings campus.</description>
     </item>
     <item>
       <title>FAQ</title>
       <link>/faq/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>/faq/</guid>
-      <description>How do I sign up? Go to the Sign Up tab to register. Please fill out the form fully.&#xA;You can sign up as a 4-5 (gets priority) or 2-3 person team or leave us your information to be matched with others looking for teams. Seats are limited, so register early! The registration deadline is 11th March, at 17:00.&#xA;Is there a registration fee? No, there is no registration fee.</description>
+      <description>How do I sign up? Go to the Sign Up tab to register. Please fill out the form fully.&#xA;You can sign up as a 4-5 (gets priority) or 2-3 person team or leave us your information to be matched with others looking for teams. Seats are limited, so register early!&#xA;Is there a registration fee? No, there is no registration fee. However, note that the event takes significant resources to run.</description>
     </item>
     <item>
       <title>Past DataFests</title>
       <link>/df2021/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>/df2021/</guid>
-      <description>Data Fest 2021 Ediburgh Thirty-six teams participated in the ASA DataFest @ EDI 2021 between 26-28 March 2021.&#xA;ASA DataFest is a data analysis competition where teams of up to five students attack a large and complex surprise dataset over a weekend to find and communicate insights into the data. The teams that impress the judges win prizes, and the event is a great opportunity for them to gain some data analyses work experience.</description>
+      <description>DataFest 2024 @ EDI On 22-24 March, 82 students in 20 teams participated in the ASA DataFest 2024 at Edinburgh. Students were from 10 different schools across the University of Edinburgh and Heriot-Watt University. Academic staff, postgraduate students, and data scientists from industry joined as consultants to guide participants during the event.&#xA;The event was sponsored by the School of Mathematics, Actuarial Mathematics &amp;amp; Statistics Department at the Heriot-Watt University, Centre for Statistics, Maxwell Institute, Bayes Centre, International Centre for Mathematical Sciences, and the Royal Statistical Society.</description>
     </item>
     <item>
       <title>Practicals</title>
@@ -61,14 +61,14 @@
       <link>/schedule/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>/schedule/</guid>
-      <description>All events take place on-site. We&amp;rsquo;ll use MS Teams for communication.&#xA;Event details When: Friday, March 22 at 6:00 pm - Sunday, March 24 at 7 pm&#xA;Where: Hawthorn Teaching Room, Nucleus Building, The King&amp;rsquo;s Buildings campus, The University of Edinburgh, EH9 3FG&#xA;Friday, 22 March 2024 Welcome!&#xA;📣 5-6pm - Registration&#xA;📣 6-6:30pm - Welcome; Overview of the event; Introducing the dataset&#xA;💻 6:30-7pm - Setting up your team</description>
+      <description>All events take place on-site. We&amp;rsquo;ll use MS Teams for communication.&#xA;Event details When: Friday, March 21 at 6:00 pm - Sunday, March 23 at 7 pm&#xA;Where: Hawthorn Teaching Room, Nucleus Building, The King&amp;rsquo;s Buildings campus, The University of Edinburgh, EH9 3FG&#xA;Friday, 21 March 2025 Welcome!&#xA;📣 5-6pm - Registration&#xA;📣 6-6:30pm - Welcome; Overview of the event; Introducing the dataset&#xA;💻 6:30-7pm - Setting up your team</description>
     </item>
     <item>
       <title>Sign up</title>
       <link>/signup/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>/signup/</guid>
-      <description>Seats are limited, sign up before it&amp;rsquo;s too late! Deadline is 11 March 2024, 5pm UK time.&#xA;Participants Option 1: Team sign-up (2-5 students) Click here to sign up as a team of 2 to 5 students. Students signing up in this category will be given priority.&#xA;Option 2: Looking for teammates If you do not have a team in mind but you&amp;rsquo;re looking for teammates, click here to leave us your information so that you can be matched with others.</description>
+      <description>Deadline is 12th March 2025, 5pm UK time. Please note that capacity is limited, so registration may stop before the deadline when all seats are taken!&#xA;Participants Option 1: Team sign-up (2-5 students) Click here to sign up as a team of 2 to 5 students. Students signing up in this category will be given priority.&#xA;Option 2: Looking for teammates If you do not have a team in mind but you&amp;rsquo;re looking for teammates, click here to leave us your information and we will match you with other individuals.</description>
     </item>
     <item>
       <title>Support DataFest</title>

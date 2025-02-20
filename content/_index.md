@@ -51,7 +51,7 @@ ASA DataFest is also a great opportunity to gain the experience that employers a
 
 ---
 
-ASA DataFest @ EDI is organised by the School of Mathematics, at the University of Edinburgh. The organising committee members are Serveh Sharifi, Vanda Inacio, and Ozan Evkay.
+ASA DataFest @ EDI is organised by the School of Mathematics, at the University of Edinburgh. The organising committee members are Serveh Sharifi, Vanda Inacio, and Ozan Evkaya.
   
 ---
 

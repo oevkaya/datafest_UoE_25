@@ -25,7 +25,7 @@ All University of Edinburgh **undergraduate** students are eligible with any bac
 
 #### <i class="fas fa-question-circle fa-fw"></i> What are the prizes?</h4>
 
-Prizes include medals, student memberships to the American Statistical Association, and e-student memberships to the Royal Statistical Society. We'll have a few other surprises as well!
+Prizes include student memberships to the American Statistical Association, e-student memberships to the Royal Statistical Society, fame, glory, surprise prizes, gift cards, or some combination thereof!
 
 ---
 
@@ -87,16 +87,9 @@ We will also use MS Teams for communication during the competition.
 ---
 
 
-#### <i class="fas fa-question-circle fa-fw"></i> What can I win?
-
-ASA student memberships, medals, fame, glory, surprise prizes, or some combination thereof!
-
----
-
-
 #### <i class="fas fa-question-circle fa-fw"></i> Where else is ASA DataFest<sup><small>TM</small></sup> happening?</h4>
 
-ASA DataFest<sup><small>TM</small></sup> is growing fast! See <a href="https://ww2.amstat.org/education/datafest/participants.cfm">here</a> for a list of all participating institutions. 
+ASA DataFest<sup><small>TM</small></sup> is growing fast! See [here](https://ww2.amstat.org/education/datafest/participants.cfm) for a list of all participating institutions. 
 
 
 ---

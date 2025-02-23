@@ -17,7 +17,7 @@ For more on the code of conduct, please see the [ASA Meeting Code of Conduct](ht
 
 ### Need Help?
 
-Please speak to one of the organisers or email [serveh.sharifi@ed.ac.uk].
+Please speak to one of the organisers or send an email to [Dr. Serveh Sharifi](mailto:serveh.sharifi@ed.ac.uk)
 
 If any attendee engages in harassing behavior, the event organizers may take any lawful action we deem appropriate, including but not limited to warning the offender or asking the offender to leave the event. (If you feel you have been unfairly accused of violating this code of conduct, you should contact the organizers with a concise description of your grievance.)
 

@@ -100,7 +100,8 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
 [params]
   dateFormat = "2 January 2006"
   # background = "https://github.com/mine-cetinkaya-rundel/datafest-edi/blob/master/content/img/edi.jpg?raw=true"
-  background = "https://github.com/oevkaya/datafest_UoE/blob/master/content/img/EdinburghUni.jpg?raw=true"
+  # background = "https://github.com/oevkaya/datafest_UoE/blob/master/content/img/EdinburghUni.jpg?raw=true"
+  background = "https://raw.githubusercontent.com/oevkaya/datafest_UoE_25/master/content/img/EdinburghUni.jpg"
   # background2020 = "https://github.com/mine-cetinkaya-rundel/datafest-edi/blob/master/content/img/df2020.jpg?raw=true"
   favicon = ""
   [params.author]

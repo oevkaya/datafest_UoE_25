@@ -10,7 +10,7 @@ markup: "mmark"
 -->
 
 
-The American Statistical Association (ASA) DataFest 2025 @ Edinburgh is **on site** on **March 21 - 23, 2025** weekend with participation from the University of Edinburgh undergraduate students. 
+The American Statistical Association (ASA) DataFest 2025 @ Edinburgh was held on **March 21 - 23, 2025** with participation from the University of Edinburgh undergraduate students. 
 
 <br>
 
@@ -41,6 +41,49 @@ Passcode: datafest21
 
 ![DataFest](https://raw.githubusercontent.com/oevkaya/datafest_UoE_25/master/docs/img/df-edi-logo.png)
 
+---
+## ASA DataFest25@EDI
+
+The School of Mathematics hosted the American Statistical Association DataFest at Edinburgh on March 21–23, for the 4th time! ASA DataFest is a weekend-long undergraduate data analysis competition where teams of 2–5 undergraduates work to reveal insights from a rich, complex, and surprise dataset.
+
+In this competition, 40 students from 6 different schools across the University of Edinburgh competed in 10 teams over the weekend. 12 academic staff, postgraduate students, and data scientists from industry helped them as consultants in analysing the given dataset. Participants worked together in the Hawthorn Teaching Room at the Nucleus Building and also spent time socialising with each other and data scientist consultants.
+
+The data in this run of DataFest was from Savills, an international commercial real estate firm that helps businesses find a place to lease offices. Savills provided a dataset consisting of every known commercial leasing transaction within specific U.S. markets between 2018 and 2024. The pandemic was a disruptive moment for this sector of the economy, and Savills wanted to know what advice they can give to clients in specific markets within the Legal, Financial Services, or Tech sectors as the recovery continues. The challenge was to inform Savills of notable trends or microtrends in the commercial real estate market that could be used to advise clients on where, when, whether, and how to locate their offices.
+
+For this challenge, teams were asked to present their findings to a panel of judges in a six-minute presentation followed by a short Q&A.
+
+### Judges for ASA DataFest 2025 @ EDI:
+
+- **Bruce Worton** – Reader in Statistics at School of Mathematics  
+- **Lanxin Li** – Postdoctoral Research Associate in Statistics at School of Mathematics  
+- **Nevil Hopley** – Senior Data Analyst at Scottish Qualifications Authority  
+- **Rosie Wilkie** – Head of External Engagement at School of Mathematics  
+
+After the presentations, the winners were announced and received prizes, gift cards, and free memberships to the American Statistical Association and the Royal Statistical Society, at the end of the event on Sunday evening.
+
+---
+
+## ASA DataFest 2025 @ EDI Awards:
+
+🏆 **Best Insights:** *Cs Crocodiles Team*  
+  *Mostafa Ebid, Rupen Maharjan, Yilun Zhou* – “Are tech companies relocating?”
+
+🏆 **Best Visualisation:** *The 4 Yutes of Runity Team*  
+  *Jack Taylor, Reuben Forman, Ian Little, Onno Sharp* – “An XAI Approach to Understanding Property Retention Patterns Among Savills’ Clientele”
+
+🏆 **Best Use of Outside Data:** *The Bayesian Bandits Team*  
+  *Kian Hampson-Bahia, Glen Filson, Cameron Matheson, Akrit Ghimire* – “Relocation of construction leases”
+
+🏅 **Honourable Mention:** *Helicopta Team*  
+  *Mako Shibata, Jonathan Furtek, Poorvash Muthumaheswaran, Jiongxiang Zhou, Luke Hampshire* – “Leasing Trends in the Healthcare and sector in the US”
+
+🏅 **Honourable Mention:** *Ctrl Alt DEFEAT Team*  
+  *Gregory Hamvas Hummerich, Andy Wu* – “Commercial Real Estate Market Trends in Manhattan”
+
+
+
+---
+---
 ### What is DataFest?
 
 Are you up for a data challenge? Want to mingle with data analysis professionals from industry and academia? Compete for prizes and glory? 
